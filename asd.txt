@@ -1,1 +1,3 @@
 kaj si so pres
+pirntmyname(){
+cout<< "Tino Krstanovski";}
